@@ -4,3 +4,11 @@ body{
     background-position: center;
     background-size: cover;
 }
+
+button{
+    color : white;
+    background-color : red;
+    border-color : black;
+    border-width : 2px;
+    border-style : solid;
+}
